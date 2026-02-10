@@ -61,7 +61,6 @@ DELETE /courses/{id}
 POST /courses JSON example:
 
 json
-Копировать код
 {
   "name": "Java OOP",
   "credits": 5
@@ -76,7 +75,6 @@ DELETE /enrollments/{id}
 POST /enrollments JSON example:
 
 json
-Копировать код
 {
   "studentId": 4,
   "courseId": 3
